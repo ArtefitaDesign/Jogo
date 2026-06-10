@@ -48,5 +48,155 @@
     "scale": 1.35,
     "posX": 48,
     "posY": 51
+  },
+  {
+    "id": 1781106814176,
+    "category": "Animais",
+    "name": "Cavalo",
+    "image": "https://breeds.okstate.edu/horses/site-files/images/horse-1200x800-1.jpg",
+    "syllables": "Ca-va-lo",
+    "scale": 1.15,
+    "posX": 62,
+    "posY": 39
+  },
+  {
+    "id": 1781106866701,
+    "category": "Frutas",
+    "name": "Framboesa",
+    "image": "https://cdn.wikifarmer.com/images/detailed/2024/02/Fatos-Interessantes-Sobre-Framboesas.png",
+    "syllables": "Fram-bo-e-sa",
+    "scale": 1.15,
+    "posX": 50,
+    "posY": 50
+  },
+  {
+    "id": 1781106935223,
+    "category": "Frutas",
+    "name": "Mirtilo",
+    "image": "https://revistajardins.pt/wp-content/uploads/2017/06/ThinkstockPhotos-476536831.jpg",
+    "syllables": "Mir-ti-lo",
+    "scale": 1,
+    "posX": 50,
+    "posY": 50
+  },
+  {
+    "id": 1781106980099,
+    "category": "Frutas",
+    "name": "Amora",
+    "image": "https://www.arandanoselcierron.com/datos/0/plantas_zarzamora_sin_espinas18.webp",
+    "syllables": "A-mo-ra",
+    "scale": 1,
+    "posX": 48,
+    "posY": 50
+  },
+  {
+    "id": 1781107091548,
+    "category": "Frutas",
+    "name": "Morango",
+    "image": "https://images.immediate.co.uk/production/volatile/sites/10/2018/03/2048x1365-Best-strawberries-to-grow-LI1834878-9b05a14.jpg",
+    "syllables": "Mo-ran-go",
+    "scale": 1,
+    "posX": 59,
+    "posY": 50
+  },
+  {
+    "id": 1781107149335,
+    "category": "Frutas",
+    "name": "Batata",
+    "image": "https://static.vecteezy.com/ti/fotos-gratis/p1/69855563-fresco-pilha-do-maduro-batatas-em-terra-dentro-campo-exibindo-seus-terreno-textura-e-natural-beleza-gratis-foto.jpeg",
+    "syllables": "Ba-ta-ta",
+    "scale": 1,
+    "posX": 28,
+    "posY": 50
+  },
+  {
+    "id": 1781107213339,
+    "category": "Frutas",
+    "name": "Cebola",
+    "image": "https://armazemagricola.pt/wp-content/uploads/2024/01/Como-plantar-cebolas-dicas-para-iniciantes.jpg",
+    "syllables": "Ce-bo-la",
+    "scale": 1,
+    "posX": 22,
+    "posY": 50
+  },
+  {
+    "id": 1781107363472,
+    "category": "Frutas",
+    "name": "Banana",
+    "image": "https://nutritotal.com.br/publico-geral/wp-content/uploads/2019/12/shutterstock_375477457.jpg",
+    "syllables": "Ba-na-na",
+    "scale": 1,
+    "posX": 37,
+    "posY": 29
+  },
+  {
+    "id": 1781107450474,
+    "category": "Animais",
+    "name": "Mosca",
+    "image": "https://i0.wp.com/combate.com.br/wp-content/uploads/2024/05/mosca_varajeira.jpg?fit=1920%2C1080&ssl=1",
+    "syllables": "Mos-ca",
+    "scale": 1,
+    "posX": 42,
+    "posY": 50
+  },
+  {
+    "id": 1781107501135,
+    "category": "Animais",
+    "name": "Abelha",
+    "image": "https://conteudo.imguol.com.br/c/entretenimento/10/2021/04/12/abelha-em-flor-no-brasil-1618239781566_v2_4x3.jpg",
+    "syllables": "A-be-lha",
+    "scale": 1.25,
+    "posX": 0,
+    "posY": 50
+  },
+  {
+    "id": 1781107546803,
+    "category": "Animais",
+    "name": "Galinha",
+    "image": "https://www.universodasaudeanimal.com.br/wp-content/uploads/sites/57/2021/07/Leghorn-e-uma-das-racas-de-galinhas-poedeiras-mais-famosas-1.jpg",
+    "syllables": "Ga-li-nha",
+    "scale": 1,
+    "posX": 8,
+    "posY": 50
+  },
+  {
+    "id": 1781107674622,
+    "category": "Animais",
+    "name": "Pato",
+    "image": "https://aroucageopark.pt/wp-content/uploads/2024/03/Pato-real-Anas-platyrhynchos.jpg",
+    "syllables": "Pa-to",
+    "scale": 1.4,
+    "posX": 52,
+    "posY": 50
+  },
+  {
+    "id": 1781107713426,
+    "category": "Animais",
+    "name": "Caracol",
+    "image": "https://www.zet-tecdedetizadora.com.br/wp-content/uploads/2024/11/dedetizacao-de-caracol.jpg",
+    "syllables": "Ca-ra-col",
+    "scale": 1,
+    "posX": 39,
+    "posY": 50
+  },
+  {
+    "id": 1781107763226,
+    "category": "Objetos",
+    "name": "Pedra",
+    "image": "https://media.jardineriadelvalles.com/product/canto-rodado-natural-de-rio-800x800.jpeg?width=1200",
+    "syllables": "Pe-dra",
+    "scale": 1,
+    "posX": 50,
+    "posY": 50
+  },
+  {
+    "id": 1781107822732,
+    "category": "Objetos",
+    "name": "Sapato",
+    "image": "https://1918693834.rsc.cdn77.org/images/block2_1421.jpg?1766070596",
+    "syllables": "Sa-pa-to",
+    "scale": 1.2,
+    "posX": 70,
+    "posY": 82
   }
 ]
