@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1781106050369,
+    "category": "Animais",
+    "name": "Gato",
+    "image": "https://armazemagricola.pt/wp-content/uploads/2024/11/Ter-um-gato-tudo-o-que-precisa-saber.jpg",
+    "syllables": "Ga-to",
+    "scale": 1.15,
+    "posX": 50,
+    "posY": 50
+  },
+  {
+    "id": 1781106107839,
+    "category": "Animais",
+    "name": "Cão",
+    "image": "https://www.nylabone.com/-/media/project/oneweb/nylabone/images/dog101/10-intelligent-dog-breeds/golden-retriever-tongue-out.jpg?h=430&w=710&hash=7FEB820D235A44B76B271060E03572C7",
+    "syllables": "Cão",
+    "scale": 1,
+    "posX": 29,
+    "posY": 50
+  },
+  {
+    "id": 1781106182138,
+    "category": "Animais",
+    "name": "Tubarão",
+    "image": "https://cdn0.peritoanimal.com.br/pt/razas/8/7/7/tubarao-branco_778_0_600.jpg",
+    "syllables": "Tu-ba-rão",
+    "scale": 1,
+    "posX": 61,
+    "posY": 50
+  },
+  {
+    "id": 1781106258003,
+    "category": "Frutas",
+    "name": "Limão",
+    "image": "https://cdn.britannica.com/84/188484-050-F27B0049/lemons-tree.jpg",
+    "syllables": "Li-mão",
+    "scale": 1,
+    "posX": 45,
+    "posY": 50
+  },
+  {
+    "id": 1781106347818,
+    "category": "Espaço",
+    "name": "Lua",
+    "image": "https://cdn.mos.cms.futurecdn.net/ixVt82uzEVx6XJR3kbAucd-1920-80.jpg",
+    "syllables": "Lu-a",
+    "scale": 1.35,
+    "posX": 48,
+    "posY": 51
+  }
+]
