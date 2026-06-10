@@ -365,11 +365,8 @@ window.addEventListener('pointerdown', (e) => {
   // Count remaining balloons
   const remainingBalloons = celebrationParticles.filter(p => p instanceof Balloon).length;
   
-  if (!hitBalloon) {
-    celebrationOverlay.classList.remove('active');
-    stopCelebration();
-    initGame();
-  } else if (remainingBalloons === 0) {
+  // Only proceed to next round when ALL balloons have been popped
+  if (hitBalloon && remainingBalloons === 0) {
     canvas.style.pointerEvents = 'none';
     setTimeout(() => {
       celebrationOverlay.classList.remove('active');
@@ -610,6 +607,7 @@ let currentScreen = 'game';
 function toggleScreen() {
   if (currentScreen === 'game') {
     currentScreen = 'manager';
+    document.body.classList.remove('game-mode');
     gameScreen.classList.remove('active');
     managerScreen.classList.add('active');
     toggleScreenBtn.innerHTML = '🎮';
@@ -617,6 +615,7 @@ function toggleScreen() {
     renderManager();
   } else {
     currentScreen = 'game';
+    document.body.classList.add('game-mode');
     managerScreen.classList.remove('active');
     gameScreen.classList.add('active');
     toggleScreenBtn.innerHTML = '⚙️';
@@ -779,6 +778,7 @@ addItemForm.addEventListener('submit', (e) => {
 
 // Initialize on Load
 runParticleEngine();
+document.body.classList.add('game-mode'); // Garantir que arranca sem scroll no ecrã de jogo
 checkServerCards().then(() => {
   initGame();
   renderManager();

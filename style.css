@@ -449,3 +449,25 @@ footer {
     width: 100%;
   }
 }
+
+/* Modo Jogo: impede scroll, zoom e fixa o layout no ecrã inteiro */
+body.game-mode {
+  overflow: hidden;
+  position: fixed;
+  width: 100vw;
+  height: 100vh;
+  touch-action: none; /* Desativa gestos de zoom de pinça e arrastamento */
+}
+
+body.game-mode main {
+  height: calc(100vh - 120px);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 10px;
+}
+
+body.game-mode footer {
+  display: none; /* Oculta rodapé no jogo para poupar espaço no tablet */
+}
